@@ -1,0 +1,21 @@
+{
+  "name": "contact-bot",
+  "version": "1.0.0",
+  "description": "Auto-download and run WhatsApp bot from GitHub repo ZIP",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^3.11.4",
+    "adm-zip": "^0.5.9",
+    "axios": "^1.4.0",
+    "pino": "^8.13.0",
+    "jimp": "^0.16.1",
+    "file-type": "^18.0.0",
+    "node-cache": "^5.1.2",
+    "megajs": "^4.4.6"
+  }
+}
