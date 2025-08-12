@@ -17,7 +17,7 @@
     "express": "latest",
     "axios": "^1.4.0",
     "pino": "^8.13.0",
-    "jimp": "^latest",
+    "jimp": "latest",
     "file-type": "^18.0.0",
     "node-cache": "^5.1.2",
     "megajs": "^4.4.6"
