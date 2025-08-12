@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node start.js"
   },
-  "author": "Your Name",
+  "author": "luxalgo",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "^3.11.4",
