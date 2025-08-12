@@ -11,9 +11,12 @@
   "dependencies": {
     "@whiskeysockets/baileys": "^3.11.4",
     "adm-zip": "^0.5.9",
+   "pino": "^9.6.0",
+    "path": "^0.12.7",
+    "express": "latest",
     "axios": "^1.4.0",
     "pino": "^8.13.0",
-    "jimp": "^0.16.1",
+    "jimp": "^latest",
     "file-type": "^18.0.0",
     "node-cache": "^5.1.2",
     "megajs": "^4.4.6"
